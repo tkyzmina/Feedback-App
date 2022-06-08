@@ -1,4 +1,4 @@
-# Feedback App made with React Course of React Front To Back 2022 by Brad Tarvesy
+# Feedback App made with React Course of React Front To Back 2022 by Brad Traversy
 ## Used:
 React18: React Components, useState, useEffect, useContext.
 React Router and global CSS styling.
