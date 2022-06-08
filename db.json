@@ -9,6 +9,11 @@
       "id": 3,
       "rating": 9,
       "text": "This is feedback item 3 from db"
+    },
+    {
+      "text": "New item editing ",
+      "rating": 3,
+      "id": 4
     }
   ]
 }
