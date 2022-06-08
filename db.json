@@ -1,0 +1,14 @@
+{
+  "feedback": [
+    {
+      "id": 2,
+      "rating": 3,
+      "text": "This is feedback item 2 from db"
+    },
+    {
+      "id": 3,
+      "rating": 9,
+      "text": "This is feedback item 3 from db"
+    }
+  ]
+}
