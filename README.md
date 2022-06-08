@@ -5,5 +5,5 @@ React Router and global CSS styling.
 
 Published on Netlify sever [here](https://elaborate-chimera-54c070.netlify.app/)
 
-for local set up use:
-### `npm i and npm start`
+for local set up:
+### `npm i and npm run dev`
